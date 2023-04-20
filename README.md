@@ -1,5 +1,3 @@
-<img align="right" height="150" src="https://cdn.pixabay.com/photo/2016/03/27/18/54/technology-1283624_960_720.jpg"  />
-
 ###
 
 <div align="center">
@@ -74,9 +72,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=blackeagledhs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/blackeagledhs/blackeagledhs/blob/output/snake.svg" alt="Snake animation" />
 
 ###
