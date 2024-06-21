@@ -27,11 +27,11 @@
 
 ###
 
-<h3 align="center">👩‍💻   I am 40 years old, during these years I have worked in several sectors. Being one of the oldest the PC repairer, I have been updating and learning different areas. A few years ago I dedicated myself to try to<br>        know the IT world on my own, and made different free courses, I have made my first approaches creating sites with Wordpress and TikiWiki, making modifications in Visual Design and CSS. Currently I am studying at Alura Latam and Argentina Programa, to expand and deepen even more in the knowledge of a Full Stack developer.</h3>
+<h3 align="center">👩‍💻   I am 40 years old, during these years I have worked in several sectors. Being one of the oldest the PC repairer, I have been updating and learning different areas. A few years ago I dedicated myself to try to<br>        know the IT world on my own, and made different free courses, I have made my first approaches creating sites with Wordpress and TikiWiki, making modifications in Visual Design and CSS. Currently I am studying at App Academy Open, to expand and deepen even more in the knowledge of a Full Stack developer.</h3>
 
 ###
 
-<p align="left">I'm Full Stack Developer from Argentina<br><br>- 🔭 I’m working in Collaborative Project<br>- 📚 I'm currently learning Angular, SpringBoot and Mysql <br>- ⚡ In my free time I play time with my family and watch movies</p>
+<p align="left">I'm Full Stack Developer from Argentina<br><br>- 🔭 I’m working in Collaborative Project<br>- 📚 I'm currently learning Python, Django, Django Rest Framework, PostgreSql <br>- ⚡ In my free time I play time with my family and watch movies</p>
 
 ###
 
