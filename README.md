@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="center">👩‍💻   I am 40 years old, during these years I have worked in several sectors. Being one of the oldest the PC repairer, I have been updating and learning different areas. A few years ago I dedicated myself to try to<br>        know the IT world on my own, and made different free courses, I have made my first approaches creating sites with Wordpress and TikiWiki, making modifications in Visual Design and CSS. Currently I am studying at App Academy Open, to expand and deepen even more in the knowledge of a Full Stack developer.</h3>
+<h3 align="center">👩‍💻   I am 42 years old, during these years I have worked in several sectors. Being one of the oldest the PC repairer, I have been updating and learning different areas. A few years ago I dedicated myself to try to<br>        know the IT world on my own, and made different free courses, I have made my first approaches creating sites with Wordpress and TikiWiki, making modifications in Visual Design and CSS. Currently I am studying at App Academy Open, to expand and deepen even more in the knowledge of a Full Stack developer.</h3>
 
 ###
 
